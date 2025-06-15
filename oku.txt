@@ -1,0 +1,1 @@
+hafta 6'da yapılan bu çalışmada arşivden haberler getiriliyor ve linkleri ist.txt adlı dosyaya tek tek kaydediliyor.
